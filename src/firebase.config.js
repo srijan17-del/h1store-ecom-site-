@@ -6,7 +6,7 @@ import { initializeApp } from "firebase/app";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyB8qtQW8hnB_T3SJ5fy0y37-IFUhA8k0TE",
-  authDomain: "h1store.vercel.app",
+  authDomain: "h1store.firebaseapp.com",
   projectId: "h1store",
   storageBucket: "h1store.appspot.com",
   messagingSenderId: "658823936183",
